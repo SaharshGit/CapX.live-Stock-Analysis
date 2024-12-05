@@ -28,7 +28,8 @@ This project requires Python 3.x and the following dependencies:
 - 'Reddit_Scraping.ipynb' will output 'scrapped_data.csv' file. This file will be required in 'Analysis and Feature creation.ipynb' notebook.
 - 'Analysis and Feature creation.ipynb' will output 'final_reddit_data.csv'. This file will be required in 'Prediction_Model.ipynb' notebook.
   
-- I would recommed running them in google collab for similar results 
+- I would recommed running them in google collab for similar results
+  ### Note- Although i have provided the datatsets in a seperate folder but if you run the Notebook in sequence it will generate the required data
 
 ## Short description of each Notebook
 - 'Reddit_Scraping.ipynb' - Scrapes reddit data, historical data and combine them based on date and company name.
