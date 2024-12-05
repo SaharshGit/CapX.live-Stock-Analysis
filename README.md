@@ -29,7 +29,7 @@ This project requires Python 3.x and the following dependencies:
 - 'Analysis and Feature creation.ipynb' will output 'final_reddit_data.csv'. This file will be required in 'Prediction_Model.ipynb' notebook.
 
 ## Short description of each Notebook
-- 'Reddit_Scraping.ipynb - Scrapes reddit data, historical data and combine them based on date and company name.
+- 'Reddit_Scraping.ipynb' - Scrapes reddit data, historical data and combine them based on date and company name.
 - 'Analysis and Feature creation.ipynb' - Performs sentiment analysis and creates new features.
 - 'Prediction_Model.ipynb' - train and test different ML models on 'final_reddit_data.csv' dataset.
 
