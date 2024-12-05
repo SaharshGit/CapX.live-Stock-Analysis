@@ -24,7 +24,7 @@ This project requires Python 3.x and the following dependencies:
 - `seaborn`
 
 ## How to run the code
-- We have 3 Notebooks 'Reddit_Scraping.ipynb', 'Analysis and Feature creation.ipynb', 'Prediction_Model.ipynb'. You should run the notebooks in same order.
+- We have 3 Notebooks 'Reddit_Scraping.ipynb', 'Analysis and Feature creation.ipynb' and 'Prediction_Model.ipynb'. You should run the notebooks in same order.
 - 'Reddit_Scraping.ipynb' will output 'scrapped_data.csv' file. This file will be required in 'Analysis and Feature creation.ipynb' notebook.
 - 'Analysis and Feature creation.ipynb' will output 'final_reddit_data.csv'. This file will be required in 'Prediction_Model.ipynb' notebook.
 
